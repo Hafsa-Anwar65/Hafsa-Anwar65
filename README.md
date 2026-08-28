@@ -22,16 +22,22 @@
 
 ### AI/ML & Robotics Engineer | Computer Vision | Intelligent Systems | Python & C++
 
-Robotics & Intelligence Systems undergraduate at **Bahria University** building practical Machine Learning, Computer Vision, and Automation systems and applying them to real robotics platforms.
+Robotics & Intelligence Systems undergraduate at **Bahria University** building practical Machine Learning, Computer Vision, and Automation systems — and applying them to real robotics platforms.
 
 [![Email](https://img.shields.io/badge/Email-hafsa.anwar017%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:hafsa.anwar017@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-anwar-53b251313/)
 [![GitHub](https://img.shields.io/badge/GitHub-Hafsa--Anwar65-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/Hafsa-Anwar65)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ADD_PORTFOLIO_URL-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](#)
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Machine+Learning+%2B+Computer+Vision;Robotics+%2B+Automation;Building+systems+that+see%2C+learn+%26+automate" alt="Typing SVG" />
+
 </div>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🧠 About Me
 
@@ -41,7 +47,9 @@ Robotics & Intelligence Systems undergraduate at **Bahria University** building 
 - ⚙️ Comfortable connecting AI models to the rest of a system — REST APIs, automation workflows (n8n), and retrieval-augmented generation
 - 🌱 Currently learning: advanced Computer Vision, RAG/LLM applications, and full-stack development
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🧭 Currently Building
 
@@ -53,7 +61,9 @@ Robotics & Intelligence Systems undergraduate at **Bahria University** building 
 | ⚙️ Automation & APIs | n8n workflow automation, RAG pipelines, and REST APIs with FastAPI/Flask |
 | 🦾 Robotics | Kinematics, trajectory planning, and simulation with ROS 2, MoveIt, RViz, and Gazebo |
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🧰 Tech Stack
 
@@ -107,7 +117,9 @@ Robotics & Intelligence Systems undergraduate at **Bahria University** building 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🔥 Featured Projects
 
@@ -148,7 +160,9 @@ Image preprocessing and OCR pipeline to extract text from images.
 **Tech:** Python · OpenCV · Tesseract OCR
 **Repo:** [YOUR_REPO_LINK](#)
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🧳 Experience
 
@@ -158,7 +172,9 @@ Built n8n workflow automation pipelines connecting LLM-based systems with extern
 **Robotics & Automation Intern** — Decode Labs · Jun 2026 – Jul 2026 · Remote
 Designed a 6-DOF robotic arm simulation (Forward/Inverse Kinematics, trajectory planning, obstacle avoidance) integrated with ROS 2 (MoveIt, RViz, Gazebo); built an OpenCV gear-inspection pipeline for PASS/FAIL defect classification; developed a LiDAR-based mapping and A* navigation system for an autonomous mobile robot in simulated maze environments.
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🏆 Certifications & Learning
 
@@ -179,7 +195,9 @@ Designed a 6-DOF robotic arm simulation (Forward/Inverse Kinematics, trajectory 
 | Data Visualization | Kaggle | — | ADD CREDENTIAL LINK |
 | Generative AI | LinkedIn Learning | — | ADD CREDENTIAL LINK |
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🧗 Currently Learning
 
@@ -188,22 +206,34 @@ Deep Learning  →  Advanced Computer Vision  →  NLP  →  RAG  →  LLM Appli
        →  Full-Stack Development  →  FastAPI  →  Automation  →  ROS 2
 ```
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Anwar65&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hafsa's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-Anwar65&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Anwar65&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=22D3EE&text_color=D9D2F0&border_color=6D28D9" alt="Hafsa's GitHub Stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-Anwar65&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=D9D2F0&border_color=6D28D9" alt="Top Languages" height="175" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-Anwar65&hide_border=true&theme=default" alt="GitHub Streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Hafsa-Anwar65&hide_border=true&background=0D0D1A&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=D9D2F0&currStreakNum=FFFFFF&sideNums=D9D2F0&dates=8B7FB8" alt="GitHub Streak" height="175" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafsa-Anwar65&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=A855F7&line=8B5CF6&point=22D3EE&area=true&area_color=6D28D9" alt="Contribution Activity Graph" width="100%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hafsa-Anwar65&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" width="100%" />
 
 </div>
 
-<sub>If any of the stat cards above don't render, it's a temporary issue with the external stats service — they don't affect the rest of the profile.</sub>
+<sub>Cards are generated live from GitHub activity — nothing here is a static screenshot. If a card doesn't render immediately, the stats service is warming up; refresh in a moment. These don't affect the rest of the profile.</sub>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
 ## 🤝 Let's Connect
 
