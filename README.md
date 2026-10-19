@@ -9,8 +9,8 @@
      LINKEDIN:        https://www.linkedin.com/in/hafsa-anwar-53b251313/
      PORTFOLIO:       https://hafsaanwar.dev
 
-     To add a PROJECT       -> copy a block under "## Lead Intelligence Suite",
-                               "## Featured Projects" or a row in "## More Projects".
+     To add a PROJECT       -> copy a <td> card in "Lead Intelligence Suite" or
+                               "Featured Projects", or a row in "More Projects".
      To add a CERTIFICATION -> scroll to "## Certifications" and copy a row.
      To add a TECH          -> scroll to "## Tech Stack" and add a badge to the right category.
      To add EXPERIENCE      -> scroll to "## Experience" and add a new entry at the top.
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# Hafsa Anwar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=170&section=header&text=Hafsa%20Anwar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Hafsa Anwar" />
 
 ### AI/ML & Robotics Engineer
 
@@ -124,18 +124,63 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 
 <sub>Client and employer work, so these repositories are private. Happy to walk through the architecture on a call.</sub>
 
-### Facebook Lead Intelligence Engine `DEPLOYED` `PRIVATE`
-Finds people publicly asking for services (website development first, more service domains planned) in Facebook post search, then ingests, de-duplicates and classifies those posts into leads. Playwright attaches to an already-signed-in Chrome over CDP, so there's no login automation or CAPTCHA bypass; a scroll-and-collect loop with duplicate detection keeps the feed moving.
-Includes ingestion, a lead database, classification, advanced filters, API routes, tests and a dashboard, running in production as Docker containers on a Hostinger VPS.
-**Tech:** Python · FastAPI · Playwright (CDP) · LLM classification · Docker · Hostinger VPS
+<table>
+<tr>
+<td colspan="2" valign="top">
 
-### Google Maps Lead Extractor (Lead Engine) `PRIVATE`
-Built in partnership with [Xperts Global](#partnerships--collaborations). B2B lead extraction from Google Maps for a sales team: tile-based search by state, city or ZIP across target business categories, with duplicate removal, permanently-closed filtering, Do-Not-Contact and existing-customer suppression, chain/franchise detection with a review log, and CSV/Excel export.
-**Tech:** Python · Google Places API (New) · Geocoding API · VPS deployment
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=Facebook%20Lead%20Intelligence%20Engine&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Facebook Lead Intelligence Engine" />
 
-### Threads Lead Extractor `IN PROGRESS` `PRIVATE`
-The same approach as the Facebook engine, applied to Threads: finds public posts from people asking for services, then collects, de-duplicates and classifies them into leads for the same pipeline.
-**Tech:** Python · FastAPI · Playwright · LLM classification
+<img src="https://img.shields.io/badge/-DEPLOYED-16A34A?style=flat-square" alt="DEPLOYED" /> <img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
+
+Finds people publicly asking for services in Facebook posts and turns them into qualified leads.
+
+<ul>
+<li>Playwright attaches to an already-signed-in Chrome over CDP: no login automation, no CAPTCHA bypass</li>
+<li>Ingestion, duplicate detection, LLM classification, filters, API and dashboard</li>
+<li>Runs in production as Docker containers on a Hostinger VPS</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/-Playwright-1a1a2e?style=flat-square" alt="Playwright" /> <img src="https://img.shields.io/badge/-Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=Google%20Maps%20Lead%20Extractor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Google Maps Lead Extractor" />
+
+<img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
+
+B2B lead engine built in partnership with Xperts Global.
+
+<ul>
+<li>Tile-based search by state, city or ZIP</li>
+<li>Do-Not-Contact, existing-customer and chain/franchise suppression</li>
+<li>CSV / Excel export</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Places%20API-1a1a2e?style=flat-square&logo=googlemaps&logoColor=white" alt="Places API" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=Threads%20Lead%20Extractor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Threads Lead Extractor" />
+
+<img src="https://img.shields.io/badge/-IN%20PROGRESS-D97706?style=flat-square" alt="IN PROGRESS" /> <img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
+
+The Facebook engine's pipeline, applied to Threads.
+
+<ul>
+<li>Collects public service-request posts</li>
+<li>De-duplicates and classifies them into leads</li>
+<li>Feeds the same lead pipeline</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Playwright-1a1a2e?style=flat-square" alt="Playwright" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -143,42 +188,119 @@ The same approach as the Facebook engine, applied to Threads: finds public posts
 
 ## Featured Projects
 
-<!-- Add a new project by copying one of these blocks and filling in your info. -->
+<!-- To add a project: copy a <td>...</td> block inside a <tr>. Two cards per row. -->
 
-### Change Order Extractor
-Turns messy construction change orders (PDFs and pasted text with no fixed layout) into validated JSON, where every field carries a confidence score and the source line it came from. A rule-based label/layout extractor runs first, with an optional grounded LLM pass for damaged or unfamiliar layouts. Contract sums are checked to the cent, and each document gets a `needs_review` verdict so wrong-but-confident values never slip through. 185 tests, strict typing, CI on Python 3.12 and 3.13, plus a FastAPI demo UI and HTTP API.
-**Tech:** Python · Pydantic v2 · pypdf · Claude API (optional) · FastAPI · pytest · mypy · GitHub Actions
-**Repo:** [change-order-extractor](https://github.com/Hafsa-Anwar65/change-order-extractor)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Billsight: Pakistani Electricity Bill Decoder `LIVE`
-Built for the Women Tech Quest 2026 Build Track. Reads IESCO, LESCO and K-Electric bill images with a vision model, extracts every charge, tax and billing-history field into structured JSON, checks it with 7-point validation, and answers questions about the bill. Deterministic settings and image+question caching keep results reproducible; 75 tests cover the pipeline.
-**Tech:** Python · Streamlit · Gemini Vision API · Pytest
-**Demo:** [hafsa-anwar65.github.io/Bill-Sight](https://hafsa-anwar65.github.io/Bill-Sight/) · **Repo:** [Bill-Sight](https://github.com/Hafsa-Anwar65/Bill-Sight)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=Change%20Order%20Extractor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Change Order Extractor" />
 
-### AI Support Ticket Triage
-Built during my DevelopersHub internship. Classifies incoming support tickets, validates LLM outputs, scores confidence and risk, and routes uncertain cases to human review instead of guessing.
-**Tech:** Python · LLM · Validation · Human-in-the-Loop
-**Repo:** [AI-Support-Ticket-Triage](https://github.com/Hafsa-Anwar65/AI-Support-Ticket-Triage)
+Messy construction change orders in, validated JSON out.
 
-### NudgeLine: AI Outreach Drafter
-Takes fetched Facebook posts and drafts natural, human-sounding comments, turns an email list into personalized outreach emails, and drafts replies to incoming emails.
-**Tech:** Python · Groq API (LLM)
-**Repo:** [NudgeLine](https://github.com/Hafsa-Anwar65/NudgeLine)
+<ul>
+<li>Every field carries a confidence score and its source line</li>
+<li>Contract sums checked to the cent; <code>needs_review</code> verdict per document</li>
+<li>185 tests, strict mypy, CI on Python 3.12 and 3.13</li>
+</ul>
 
-### LLM Cost & Latency Monitor
-A logging proxy that sits in front of LLM API calls and records cost and latency per request, with a dashboard for spotting expensive or slow calls.
-**Tech:** Python · LLM APIs
-**Repo:** [llm-cost-monitor](https://github.com/Hafsa-Anwar65/llm-cost-monitor)
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Pydantic-1a1a2e?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/-Claude%20API-1a1a2e?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
 
-### 6-DOF Robotic Arm Simulation
-Forward & inverse kinematics, trajectory planning and obstacle avoidance, integrated with ROS 2 (MoveIt, RViz, Gazebo).
-**Tech:** Python · C++ · ROS 2 · MoveIt · RViz · Gazebo
-**Repo:** [6-DOF Robotic Arm Simulation](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/6-DOF%20Robotic%20Arm%20Simulation)
+<a href="https://github.com/Hafsa-Anwar65/change-order-extractor"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
-### AI Object Detection & Tracking API
-Real-time YOLO detection and multi-object tracking with inference served through FastAPI; experiments tracked in MLflow.
-**Tech:** Python · YOLO · OpenCV · FastAPI · MLflow
-**Repo:** Not public
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=Billsight&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Billsight" />
+
+<img src="https://img.shields.io/badge/-LIVE-16A34A?style=flat-square" alt="LIVE" />
+
+Decodes Pakistani electricity bills (IESCO, LESCO, K-Electric). Built for Women Tech Quest 2026.
+
+<ul>
+<li>Vision-model extraction of every charge, tax and history field</li>
+<li>7-point validation and Q&amp;A over the bill</li>
+<li>Reproducible results with caching; 75 tests</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/-Gemini-1a1a2e?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+
+<a href="https://hafsa-anwar65.github.io/Bill-Sight/"><img src="https://img.shields.io/badge/Live%20Demo-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/Hafsa-Anwar65/Bill-Sight"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=AI%20Support%20Ticket%20Triage&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="AI Support Ticket Triage" />
+
+Classifies support tickets and knows when to ask a human.
+
+<ul>
+<li>LLM output validation</li>
+<li>Confidence and risk scoring</li>
+<li>Human-in-the-loop routing for uncertain cases</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-LLM-1a1a2e?style=flat-square" alt="LLM" />
+
+<a href="https://github.com/Hafsa-Anwar65/AI-Support-Ticket-Triage"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=NudgeLine&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="NudgeLine" />
+
+AI outreach drafter for comments and emails.
+
+<ul>
+<li>Human-sounding comments on fetched Facebook posts</li>
+<li>Personalized emails from an email list</li>
+<li>Drafted replies to incoming emails</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Groq-1a1a2e?style=flat-square" alt="Groq" />
+
+<a href="https://github.com/Hafsa-Anwar65/NudgeLine"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=LLM%20Cost%20%26%20Latency%20Monitor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="LLM Cost & Latency Monitor" />
+
+A logging proxy in front of LLM API calls.
+
+<ul>
+<li>Records cost and latency per request</li>
+<li>Dashboard for spotting slow or expensive calls</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-LLM%20APIs-1a1a2e?style=flat-square" alt="LLM APIs" />
+
+<a href="https://github.com/Hafsa-Anwar65/llm-cost-monitor"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=6-DOF%20Robotic%20Arm%20Simulation&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="6-DOF Robotic Arm Simulation" />
+
+Kinematics and motion planning for a 6-axis arm.
+
+<ul>
+<li>Forward and inverse kinematics</li>
+<li>Trajectory planning with obstacle avoidance</li>
+<li>Simulated in MoveIt, RViz and Gazebo</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-ROS%202-1a1a2e?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" /> <img src="https://img.shields.io/badge/-C%2B%2B-1a1a2e?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
+<a href="https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/6-DOF%20Robotic%20Arm%20Simulation"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -193,6 +315,7 @@ Real-time YOLO detection and multi-object tracking with inference served through
 | **Gear Inspection System** | OpenCV pipeline that classifies conveyor-belt gears as PASS/FAIL using contour analysis | Python · OpenCV | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Gear%20Inspection%20System) |
 | **Autonomous Mobile Robot** | LiDAR mapping and A* navigation with dynamic replanning in simulated mazes | Python · LiDAR · A* | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Autonomous%20Mobile%20Robot) |
 | **Handwritten Text Recognition** | Image preprocessing and OCR pipeline for extracting text from images | Python · OpenCV · Tesseract | [Repo](https://github.com/Hafsa-Anwar65/Handwritten-Text-Recognition-OCR) |
+| **AI Object Detection & Tracking API** | Real-time YOLO detection and multi-object tracking served through FastAPI; experiments tracked in MLflow | YOLO · FastAPI · MLflow | Not public |
 | **Real-Time Hand Tracking** | Tracks 21 hand landmarks per frame for gesture-based interaction | Python · OpenCV · MediaPipe | Not public |
 
 <div align="center">
@@ -253,8 +376,7 @@ Building their Lead Engine as the AI engineer: a Google Maps lead extraction too
 
 ## Education
 
-**BS in Robotics & Intelligence Systems**, Bahria University · 2024 to 2028 (5th Semester) · Karachi
-**Higher Secondary Education**, Bahria College Karsaz · 2022 to 2024 · Karachi
+**BS in Robotics & Intelligence Systems**, Bahria University · 2024 to 2028 (5th Semester)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -290,3 +412,5 @@ Building their Lead Engine as the AI engineer: a Google Maps lead extraction too
 Building intelligent systems, one project at a time.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=110&section=footer" width="100%" alt="" />
