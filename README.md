@@ -9,7 +9,8 @@
      LINKEDIN:        https://www.linkedin.com/in/hafsa-anwar-53b251313/
      PORTFOLIO:       https://hafsaanwar.dev
 
-     To add a PROJECT       -> scroll to "## Featured Projects" and copy a card block.
+     To add a PROJECT       -> copy a block under "## Lead Intelligence Suite",
+                               "## Featured Projects" or a row in "## More Projects".
      To add a CERTIFICATION -> scroll to "## Certifications" and copy a row.
      To add a TECH          -> scroll to "## Tech Stack" and add a badge to the right category.
      To add EXPERIENCE      -> scroll to "## Experience" and add a new entry at the top.
@@ -21,7 +22,7 @@
 
 ### AI/ML & Robotics Engineer
 
-Building Machine Learning, Computer Vision, and Generative AI systems that go beyond the model itself, connected to APIs, data pipelines, and real automation or robotic workflows.
+I build AI systems that run past the notebook: LLM pipelines, computer vision, browser automation and robotics, wired into APIs, databases and real workflows.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hafsaanwar.dev-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://hafsaanwar.dev)
 [![Email](https://img.shields.io/badge/Email-hafsa.anwar017%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:hafsa.anwar017@gmail.com)
@@ -30,7 +31,7 @@ Building Machine Learning, Computer Vision, and Generative AI systems that go be
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Machine+Learning+%2B+Computer+Vision;Robotics+%2B+Automation;Building+systems+that+see%2C+learn+%26+automate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Lead+intelligence+%2B+browser+automation;LLM+pipelines+%2B+document+extraction;Computer+Vision+%2B+Robotics" alt="Typing SVG" />
 
 </div>
 
@@ -40,14 +41,12 @@ Building Machine Learning, Computer Vision, and Generative AI systems that go be
 
 ## About Me
 
-I'm an AI/ML and Robotics Engineer pursuing a BS in Robotics & Intelligence Systems at Bahria University. My work spans:
+I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student at Bahria University. Most of what I build sits in the layer between a working model and a usable system:
 
-- **Machine Learning & Generative AI**: model development, RAG pipelines, LLM-based agents
-- **Computer Vision**: object detection & tracking, image processing, OCR
-- **Robotics**: kinematics, trajectory planning, and simulation with ROS 2, MoveIt, RViz, and Gazebo
-- **AI Automation**: n8n workflows, browser automation, and API-connected pipelines
-
-I focus on the layer between a working model and a usable system: inference APIs, data pipelines, and orchestration that let AI and robotics operate in real environments.
+- **Lead intelligence & automation**: extracting and qualifying business leads from Facebook, Threads and Google Maps with Playwright, FastAPI and LLM classification
+- **LLM applications**: change-order and bill extraction with vision models, validation layers, outreach drafting, cost and latency monitoring, human-in-the-loop routing
+- **Computer Vision**: object detection & tracking, image processing, OCR, inspection pipelines
+- **Robotics**: kinematics, trajectory planning, navigation, and simulation with ROS 2, MoveIt, RViz and Gazebo
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -57,9 +56,9 @@ I focus on the layer between a working model and a usable system: inference APIs
 
 | Focus | What I'm doing |
 |---|---|
-| **Facebook Lead Extractor** | An AI-powered lead intelligence system automating extraction of business leads from Facebook via browser automation, storing structured data in a vector database. **`IN PROGRESS`** (Python, FastAPI, Playwright, ChromaDB) |
-| **Custom ERP System** | A phased ERP build (Python backend, PostgreSQL) covering employee/HR management, production tracking, wastage tracking, and reporting. **`IN PROGRESS`** |
-| **AI Automation** | Support ticket triage: classification, LLM output validation, confidence/risk scoring, and human-in-the-loop routing |
+| **Lead Intelligence Suite** | Facebook, Threads and Google Maps lead extractors feeding one lead pipeline with a custom CRM. **`IN PROGRESS`** |
+| **Custom ERP System** | Phased ERP (Python backend, PostgreSQL) covering HR, production tracking, wastage tracking and reporting. **`IN PROGRESS`** |
+| **EscortBot** | ROS 2 service robot for bank branches, built with my university team and planned as our final-year project. **`IN PROGRESS`** |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -75,6 +74,8 @@ I focus on the layer between a working model and a usable system: inference APIs
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-6A4C93?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-6A4C93?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6A4C93?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-111111?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square)
@@ -90,7 +91,7 @@ I focus on the layer between a working model and a usable system: inference APIs
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-C60000?style=flat-square)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white)
 
-**Tools & Frameworks**
+**Languages & Backend**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -98,19 +99,43 @@ I focus on the layer between a working model and a usable system: inference APIs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square)
+
+**Automation & Tools**
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square)
+![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-E01F5A?style=flat-square)
+![Google Maps Platform](https://img.shields.io/badge/-Google%20Places%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Automation**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square)
-![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-E01F5A?style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square)
+## Lead Intelligence Suite
+
+<sub>Client and employer work, so these repositories are private. Happy to walk through the architecture on a call.</sub>
+
+### Facebook Lead Intelligence Engine `IN PROGRESS` `PRIVATE`
+Finds people publicly asking for services (website development first, more service domains planned) in Facebook post search, then ingests, de-duplicates and classifies those posts into leads. Playwright attaches to an already-signed-in Chrome over CDP, so there's no login automation or CAPTCHA bypass; a scroll-and-collect loop with duplicate detection keeps the feed moving.
+**Done:** ingestion & database, classification, advanced filters, duplicate detection, API routes, tests · **In progress:** dashboard · **Next:** scaled extraction, scheduling & monitoring
+**Tech:** Python · FastAPI · Playwright (CDP) · LLM classification
+
+### Google Maps Lead Extractor (Lead Engine) `PRIVATE`
+Built in partnership with [Xperts Global](#partnerships--collaborations). B2B lead extraction from Google Maps for a sales team: tile-based search by state, city or ZIP across target business categories, with duplicate removal, permanently-closed filtering, Do-Not-Contact and existing-customer suppression, chain/franchise detection with a review log, and CSV/Excel export.
+**Tech:** Python · Google Places API (New) · Geocoding API · VPS deployment
+
+### Threads Lead Extractor `IN PROGRESS` `PRIVATE`
+The same approach as the Facebook engine, applied to Threads: finds public posts from people asking for services, then collects, de-duplicates and classifies them into leads for the same pipeline.
+**Tech:** Python · FastAPI · Playwright · LLM classification
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -120,55 +145,55 @@ I focus on the layer between a working model and a usable system: inference APIs
 
 <!-- Add a new project by copying one of these blocks and filling in your info. -->
 
-### Facebook Lead Extractor `IN PROGRESS`
-An AI-powered lead intelligence system that automates extraction of business leads from Facebook using browser automation, structures the data, and stores it in a vector database for fast retrieval and downstream automation.
-**Tech:** Python · FastAPI · Playwright · ChromaDB
-**Repo:** Private (active employer project)
+### Change Order Extractor
+Turns messy construction change orders (PDFs and pasted text with no fixed layout) into validated JSON, where every field carries a confidence score and the source line it came from. A rule-based label/layout extractor runs first, with an optional grounded LLM pass for damaged or unfamiliar layouts. Contract sums are checked to the cent, and each document gets a `needs_review` verdict so wrong-but-confident values never slip through. 185 tests, strict typing, CI on Python 3.12 and 3.13, plus a FastAPI demo UI and HTTP API.
+**Tech:** Python · Pydantic v2 · pypdf · Claude API (optional) · FastAPI · pytest · mypy · GitHub Actions
+**Repo:** [change-order-extractor](https://github.com/Hafsa-Anwar65/change-order-extractor)
 
-### HerSafeAI: AI-Powered Harassment Reporting Assistant
-A conversational assistant that guides users through reporting harassment incidents step by step and structures the input into a formal incident report.
-**Tech:** n8n · JavaScript · HTML · CSS
-**Demo:** [hersafeai.netlify.app](https://hersafeai.netlify.app) · **Repo:** [HerSafeAI](https://github.com/Hafsa-Anwar65/HerSafeAI)
-
-### GitHub Commit Notifier
-A lightweight Flask server that listens for GitHub webhook events (pushes, pull requests) and prints real-time formatted notifications to the terminal, exposed publicly via a Cloudflare Tunnel.
-**Tech:** Python · Flask · GitHub Webhooks · Cloudflare Tunnel
-**Repo:** [github-commit-notifier](https://github.com/Hafsa-Anwar65/github-commit-notifier)
+### Billsight: Pakistani Electricity Bill Decoder
+Built for the Women Tech Quest 2026 Build Track. Reads IESCO, LESCO and K-Electric bill images with a vision model, extracts every charge, tax and billing-history field into structured JSON, checks it with 7-point validation, and answers questions about the bill. Deterministic settings and image+question caching keep results reproducible; 75 tests cover the pipeline.
+**Tech:** Python · Streamlit · Gemini Vision API · Pytest
+**Repo:** [Bill-Sight](https://github.com/Hafsa-Anwar65/Bill-Sight)
 
 ### AI Support Ticket Triage
-Classifies incoming support tickets, validates LLM outputs, scores confidence/risk, and routes uncertain cases to human review.
-**Tech:** Python · LLM · Automation · Validation · Human-in-the-Loop
+Built during my DevelopersHub internship. Classifies incoming support tickets, validates LLM outputs, scores confidence and risk, and routes uncertain cases to human review instead of guessing.
+**Tech:** Python · LLM · Validation · Human-in-the-Loop
 **Repo:** [AI-Support-Ticket-Triage](https://github.com/Hafsa-Anwar65/AI-Support-Ticket-Triage)
 
-### AI Object Detection & Tracking API
-Real-time detection pipeline using YOLO to identify and classify multiple object classes, with multi-object tracking and inference exposed via a FastAPI backend; experiments tracked with MLflow.
-**Tech:** Python · YOLO · OpenCV · FastAPI · MLflow
-**Repo:** Not public
+### NudgeLine: AI Outreach Drafter
+Takes fetched Facebook posts and drafts natural, human-sounding comments, turns an email list into personalized outreach emails, and drafts replies to incoming emails.
+**Tech:** Python · Groq API (LLM)
+**Repo:** [NudgeLine](https://github.com/Hafsa-Anwar65/NudgeLine)
+
+### LLM Cost & Latency Monitor
+A logging proxy that sits in front of LLM API calls and records cost and latency per request, with a dashboard for spotting expensive or slow calls.
+**Tech:** Python · LLM APIs
+**Repo:** [llm-cost-monitor](https://github.com/Hafsa-Anwar65/llm-cost-monitor)
 
 ### 6-DOF Robotic Arm Simulation
-Forward & Inverse Kinematics, trajectory planning, and obstacle avoidance, integrated with ROS 2 tooling (MoveIt, RViz, Gazebo).
+Forward & inverse kinematics, trajectory planning and obstacle avoidance, integrated with ROS 2 (MoveIt, RViz, Gazebo).
 **Tech:** Python · C++ · ROS 2 · MoveIt · RViz · Gazebo
 **Repo:** [6-DOF Robotic Arm Simulation](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/6-DOF%20Robotic%20Arm%20Simulation)
 
-### Real-Time Hand Tracking
-Detects 21 hand landmarks per frame in real time, enabling gesture-based interaction and dynamic visual effects.
-**Tech:** Python · OpenCV · MediaPipe
+### AI Object Detection & Tracking API
+Real-time YOLO detection and multi-object tracking with inference served through FastAPI; experiments tracked in MLflow.
+**Tech:** Python · YOLO · OpenCV · FastAPI · MLflow
 **Repo:** Not public
 
-### Handwritten Text Recognition / OCR
-Image preprocessing and OCR pipeline to extract text from images.
-**Tech:** Python · OpenCV · Tesseract OCR
-**Repo:** [Handwritten-Text-Recognition-OCR](https://github.com/Hafsa-Anwar65/Handwritten-Text-Recognition-OCR)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
 
-### Gear Inspection System
-A computer vision pipeline in OpenCV to detect gear defects on a conveyor belt, classifying parts as PASS/FAIL using contour analysis.
-**Tech:** Python · OpenCV · Contour Analysis
-**Repo:** [Gear Inspection System](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Gear%20Inspection%20System)
+## More Projects
 
-### Autonomous Mobile Robot
-A LiDAR-based mapping and navigation system using A* path planning with dynamic replanning for obstacle avoidance in simulated maze environments.
-**Tech:** Python · LiDAR · A* Path Planning
-**Repo:** [Autonomous Mobile Robot](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Autonomous%20Mobile%20Robot)
+| Project | What it does | Tech | Link |
+|---|---|---|---|
+| **HerSafeAI** | Conversational assistant that guides users through reporting harassment and structures it into a formal incident report | n8n · JavaScript · HTML/CSS | [Demo](https://hersafeai.netlify.app) · [Repo](https://github.com/Hafsa-Anwar65/HerSafeAI) |
+| **GitHub Commit Notifier** | Flask webhook server that prints real-time push/PR notifications, exposed via Cloudflare Tunnel | Python · Flask · Webhooks | [Repo](https://github.com/Hafsa-Anwar65/github-commit-notifier) |
+| **Gear Inspection System** | OpenCV pipeline that classifies conveyor-belt gears as PASS/FAIL using contour analysis | Python · OpenCV | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Gear%20Inspection%20System) |
+| **Autonomous Mobile Robot** | LiDAR mapping and A* navigation with dynamic replanning in simulated mazes | Python · LiDAR · A* | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Autonomous%20Mobile%20Robot) |
+| **Handwritten Text Recognition** | Image preprocessing and OCR pipeline for extracting text from images | Python · OpenCV · Tesseract | [Repo](https://github.com/Hafsa-Anwar65/Handwritten-Text-Recognition-OCR) |
+| **Real-Time Hand Tracking** | Tracks 21 hand landmarks per frame for gesture-based interaction | Python · OpenCV · MediaPipe | Not public |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -177,16 +202,25 @@ A LiDAR-based mapping and navigation system using A* path planning with dynamic 
 ## Experience
 
 **AI & Automation Engineer**, Tandorge Limited · Jun 2026 to Present · Remote
-Building a Facebook Lead Extractor / Lead Intelligence system (in progress) and a custom ERP system (Python, PostgreSQL) covering employee/HR management, production tracking, wastage tracking, and reporting.
+Building the Facebook Lead Intelligence Engine (in progress) and a custom ERP system (Python, PostgreSQL) covering HR, production tracking, wastage tracking and reporting.
 
-**AI Automation Intern**, DevelopersHub Corporation · Aug 2026 to Present · Remote
-Built an AI-powered support ticket triage system that handles classification, LLM output validation, and confidence/risk scoring, and routes uncertain cases through human-in-the-loop review. Learned and applied Playwright for browser automation.
-
-**Robotics & Automation Intern**, Decode Labs · Jun 2026 to Jul 2026 · Remote
-Designed a 6-DOF robotic arm simulation (Forward/Inverse Kinematics, trajectory planning, obstacle avoidance) integrated with ROS 2 (MoveIt, RViz, Gazebo); built an OpenCV gear-inspection pipeline for PASS/FAIL defect classification; developed a LiDAR-based mapping and A* navigation system for an autonomous mobile robot in simulated maze environments.
+**AI Automation Intern**, DevelopersHub Corporation · Aug 2026 to Oct 2026 · Remote
+Built an AI support ticket triage system with classification, LLM output validation, confidence/risk scoring and human-in-the-loop routing. Learned and applied Playwright for browser automation.
 
 **Gen AI Fellow**, Mind Works International · Jul 2026 to Aug 2026 · Remote
-Built n8n workflow automation pipelines connecting LLM-based systems with external APIs and data sources; applied retrieval-augmented generation (RAG) techniques within automation workflows to structure and route information.
+Built n8n automation pipelines connecting LLM-based systems with external APIs and data sources, using RAG to structure and route information.
+
+**Robotics & Automation Intern**, Decode Labs · Jun 2026 to Jul 2026 · Remote
+Built a 6-DOF robotic arm simulation (FK/IK, trajectory planning, obstacle avoidance) on ROS 2, an OpenCV gear-inspection pipeline, and LiDAR + A* navigation for an autonomous mobile robot.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
+</div>
+
+## Partnerships & Collaborations
+
+**Xperts Global** · B2B sales organization
+Building their Lead Engine as the AI engineer: a Google Maps lead extraction tool covering tile-based search, lead suppression and chain/franchise filtering, deployed on a VPS.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -201,17 +235,17 @@ Built n8n workflow automation pipelines connecting LLM-based systems with extern
 | AI Fundamentals: Foundations for Understanding AI | IBM SkillsBuild | Aug 2026 | [Verify](https://www.credly.com/go/pVQCDnT3) |
 | Building RAG Apps Using MongoDB | MongoDB | Aug 2026 | [Verify](https://www.credly.com/badges/c22d0ea6-b786-4aa4-a767-5c4c67bdd249) |
 | Certified Essentials Automation Professional | Automation Anywhere | Aug 2026 | [Verify](https://certificates.automationanywhere.com/77d067fc-85cd-488a-85a3-17dbd74390c9) |
+| Introduction to Developing AI Agents | Microsoft | Aug 2026 | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/HafsaAnwar-9743/WMT3FCDN?sharingId=82535101F5E94CE) |
+| Claude 101 | Anthropic | Aug 2026 | [Verify](https://verify.skilljar.com/c/9sspyfqtuyur) |
 | Data Analytics Using Python | 10Pearls University | Aug 2026 | [Verify](https://10pearlsuniversity.org/view-certificate/?cid=10PUC-27338203554d9cc312d9bfb3a1036adba20a83ce923323fe506278708) |
+| Generative AI | LinkedIn Learning | Aug 2026 | [Verify](https://www.linkedin.com/learning/certificates/4184854eaec179ab40defb3a826dc80aee90db3e2a4c8464a650018542a55b9d) |
+| Data Science & Analytics | HP LIFE | Aug 2026 | [Verify](https://www.life-global.org/certificate/ab3346e3-0c47-43a9-ab49-c0294565d22c) |
 | Machine Learning Onramp | MathWorks | Jul 2026 | [Verify](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=17ddc45a-826a-402d-b8b5-ae8fe541339a) |
 | Robotics and Automation Virtual Internship | Decode Labs | Jul 2026 | [Verify](https://drive.google.com/file/d/1deCTBOezHA6fFgKSnbVoZAKrKwSWCGlj/view?usp=drive_link) |
-| Introduction to Developing AI Agents | Microsoft | Aug 2026 | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/HafsaAnwar-9743/WMT3FCDN?sharingId=82535101F5E94CE) |
-| Data Science & Analytics | HP LIFE | Aug 2026 | [Verify](https://www.life-global.org/certificate/ab3346e3-0c47-43a9-ab49-c0294565d22c) |
-| Claude 101 | Anthropic | Aug 2026 | [Verify](https://verify.skilljar.com/c/9sspyfqtuyur) |
-| Generative AI | LinkedIn Learning | Aug 2026 | [Verify](https://www.linkedin.com/learning/certificates/4184854eaec179ab40defb3a826dc80aee90db3e2a4c8464a650018542a55b9d) |
+| Data Visualization | Kaggle | Jul 2026 | [Verify](https://www.kaggle.com/learn/certification/hafsaanwar065/data-visualization) |
+| Prompt Engineering | SoloLearn | Jun 2026 | [Verify](https://api2.sololearn.com/v2/certificates/CC-7CMGNOJ0/image/png) |
 | Introduction to AI Concepts | Microsoft | Jun 2025 | [Verify](https://learn.microsoft.com/api/achievements/share/en-us/HafsaAnwar-9743/D9RS3FTJ?sharingId=82535101F5E94CE) |
 | Python | UniAthena (Cambridge International) | Jun 2025 | [Verify](https://docs.uniathena.com/prod/course/certificate/323_1749899178_certificate.jpg) |
-| Prompt Engineering | SoloLearn | Jun 2026 | [Verify](https://api2.sololearn.com/v2/certificates/CC-7CMGNOJ0/image/png) |
-| Data Visualization | Kaggle | Jul 2026 | [Verify](https://www.kaggle.com/learn/certification/hafsaanwar065/data-visualization) |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -240,8 +274,6 @@ Built n8n workflow automation pipelines connecting LLM-based systems with extern
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafsa-Anwar65&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=A855F7&line=8B5CF6&point=22D3EE&area=true&area_color=6D28D9" alt="Contribution Activity Graph" width="100%" />
 
 </div>
-
-<sub>Cards are generated live from GitHub activity; nothing here is a static screenshot. If a card doesn't render immediately, the stats service is warming up, so refresh in a moment.</sub>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
