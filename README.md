@@ -56,8 +56,7 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 
 | Focus | What I'm doing |
 |---|---|
-| **Lead Intelligence Suite** | Facebook, Threads and Google Maps lead extractors feeding one lead pipeline with a custom CRM. **`IN PROGRESS`** |
-| **Custom ERP System** | Phased ERP (Python backend, PostgreSQL) covering HR, production tracking, wastage tracking and reporting. **`IN PROGRESS`** |
+| **Threads Lead Extractor** | Bringing the Facebook engine's lead pipeline to Threads. **`IN PROGRESS`** |
 | **EscortBot** | ROS 2 service robot for bank branches, built with my university team and planned as our final-year project. **`IN PROGRESS`** |
 
 <div align="center">
@@ -107,6 +106,7 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 **Automation & Tools**
 
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square)
 ![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-E01F5A?style=flat-square)
@@ -124,10 +124,10 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 
 <sub>Client and employer work, so these repositories are private. Happy to walk through the architecture on a call.</sub>
 
-### Facebook Lead Intelligence Engine `IN PROGRESS` `PRIVATE`
+### Facebook Lead Intelligence Engine `DEPLOYED` `PRIVATE`
 Finds people publicly asking for services (website development first, more service domains planned) in Facebook post search, then ingests, de-duplicates and classifies those posts into leads. Playwright attaches to an already-signed-in Chrome over CDP, so there's no login automation or CAPTCHA bypass; a scroll-and-collect loop with duplicate detection keeps the feed moving.
-**Done:** ingestion & database, classification, advanced filters, duplicate detection, API routes, tests · **In progress:** dashboard · **Next:** scaled extraction, scheduling & monitoring
-**Tech:** Python · FastAPI · Playwright (CDP) · LLM classification
+Includes ingestion, a lead database, classification, advanced filters, API routes, tests and a dashboard, running in production as Docker containers on a Hostinger VPS.
+**Tech:** Python · FastAPI · Playwright (CDP) · LLM classification · Docker · Hostinger VPS
 
 ### Google Maps Lead Extractor (Lead Engine) `PRIVATE`
 Built in partnership with [Xperts Global](#partnerships--collaborations). B2B lead extraction from Google Maps for a sales team: tile-based search by state, city or ZIP across target business categories, with duplicate removal, permanently-closed filtering, Do-Not-Contact and existing-customer suppression, chain/franchise detection with a review log, and CSV/Excel export.
@@ -150,10 +150,10 @@ Turns messy construction change orders (PDFs and pasted text with no fixed layou
 **Tech:** Python · Pydantic v2 · pypdf · Claude API (optional) · FastAPI · pytest · mypy · GitHub Actions
 **Repo:** [change-order-extractor](https://github.com/Hafsa-Anwar65/change-order-extractor)
 
-### Billsight: Pakistani Electricity Bill Decoder
+### Billsight: Pakistani Electricity Bill Decoder `LIVE`
 Built for the Women Tech Quest 2026 Build Track. Reads IESCO, LESCO and K-Electric bill images with a vision model, extracts every charge, tax and billing-history field into structured JSON, checks it with 7-point validation, and answers questions about the bill. Deterministic settings and image+question caching keep results reproducible; 75 tests cover the pipeline.
 **Tech:** Python · Streamlit · Gemini Vision API · Pytest
-**Repo:** [Bill-Sight](https://github.com/Hafsa-Anwar65/Bill-Sight)
+**Demo:** [hafsa-anwar65.github.io/Bill-Sight](https://hafsa-anwar65.github.io/Bill-Sight/) · **Repo:** [Bill-Sight](https://github.com/Hafsa-Anwar65/Bill-Sight)
 
 ### AI Support Ticket Triage
 Built during my DevelopersHub internship. Classifies incoming support tickets, validates LLM outputs, scores confidence and risk, and routes uncertain cases to human review instead of guessing.
@@ -202,7 +202,7 @@ Real-time YOLO detection and multi-object tracking with inference served through
 ## Experience
 
 **AI & Automation Engineer**, Tandorge Limited · Jun 2026 to Present · Remote
-Building the Facebook Lead Intelligence Engine (in progress) and a custom ERP system (Python, PostgreSQL) covering HR, production tracking, wastage tracking and reporting.
+Built and deployed the Facebook Lead Intelligence Engine (FastAPI, Playwright, LLM classification), now running in Docker containers on a Hostinger VPS; currently extending the same pipeline to Threads.
 
 **AI Automation Intern**, DevelopersHub Corporation · Aug 2026 to Oct 2026 · Remote
 Built an AI support ticket triage system with classification, LLM output validation, confidence/risk scoring and human-in-the-loop routing. Learned and applied Playwright for browser automation.
