@@ -325,7 +325,7 @@ Kinematics and motion planning for a 6-axis arm.
 ## Experience
 
 **AI & Automation Engineer**, Tandorge Limited · Jun 2026 to Present · Remote
-Built and deployed the Facebook Lead Intelligence Engine (FastAPI, Playwright, LLM classification), now running in Docker containers on a Hostinger VPS; currently extending the same pipeline to Threads.
+Built and deployed the Facebook Lead Intelligence Engine (FastAPI, Playwright, LLM classification), now running on a Hostinger VPS; currently extending the same pipeline to Threads.
 
 **AI Automation Intern**, DevelopersHub Corporation · Aug 2026 to Oct 2026 · Remote
 Built an AI support ticket triage system with classification, LLM output validation, confidence/risk scoring and human-in-the-loop routing. Learned and applied Playwright for browser automation.
