@@ -10,7 +10,7 @@
      PORTFOLIO:       https://hafsaanwar.dev
 
      To add a PROJECT       -> copy a <td> card in "Lead Intelligence Suite" or
-                               "Featured Projects", or a row in "More Projects".
+                               "Featured Projects" (two per row), or a row in "More Projects".
      To add a CERTIFICATION -> scroll to "## Certifications" and copy a row.
      To add a TECH          -> scroll to "## Tech Stack" and add a badge to the right category.
      To add EXPERIENCE      -> scroll to "## Experience" and add a new entry at the top.
@@ -31,7 +31,7 @@ I build AI systems that run past the notebook: LLM pipelines, computer vision, b
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Lead+intelligence+%2B+browser+automation;LLM+pipelines+%2B+document+extraction;Computer+Vision+%2B+Robotics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=LLM+pipelines+%2B+LangGraph+agents;Lead+intelligence+%2B+browser+automation;ROS+robots+%2B+Computer+Vision" alt="Typing SVG" />
 
 </div>
 
@@ -44,9 +44,9 @@ I build AI systems that run past the notebook: LLM pipelines, computer vision, b
 I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student at Bahria University. Most of what I build sits in the layer between a working model and a usable system:
 
 - **Lead intelligence & automation**: extracting and qualifying business leads from Facebook, Threads and Google Maps with Playwright, FastAPI and LLM classification
-- **LLM applications**: change-order and bill extraction with vision models, validation layers, outreach drafting, cost and latency monitoring, human-in-the-loop routing
+- **LLM applications & agents**: LangGraph pipelines, prescription and bill reading with vision models, validation layers, cost and latency monitoring, human-in-the-loop routing
 - **Computer Vision**: object detection & tracking, image processing, OCR, inspection pipelines
-- **Robotics**: kinematics, trajectory planning, navigation, and simulation with ROS 2, MoveIt, RViz and Gazebo
+- **Robotics**: ROS Noetic and ROS 2, navigation (AMCL, move_base), ESP32 firmware, kinematics and simulation in Gazebo, MoveIt and RViz
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -56,8 +56,9 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 
 | Focus | What I'm doing |
 |---|---|
-| **Threads Lead Extractor** | Bringing the Facebook engine's lead pipeline to Threads. **`IN PROGRESS`** |
-| **EscortBot** | ROS 2 service robot for bank branches, built with my university team and planned as our final-year project. **`IN PROGRESS`** |
+| **[AI Engineering Log](https://github.com/Hafsa-Anwar65/AI-Engineering-Log)** | A public 23-week log: one topic a day, from Python basics to ML, ROS 2, LangChain, LangGraph and MLOps, with a project every week. **`DAY 21 / 162`** |
+| **Threads Lead Collector** | Bringing the Facebook engine's lead pipeline to Threads. **`IN PROGRESS`** |
+| **EscortBot Brain** | The AI layer for a ROS 2 service robot: detection, RAG answers and a LangGraph agent. Planned as our final-year project. **`IN PROGRESS`** |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -72,6 +73,12 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 ![CNNs](https://img.shields.io/badge/-CNNs-4B0082?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-6A4C93?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-6A4C93?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6A4C93?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
@@ -83,21 +90,22 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 **Robotics**
 
 ![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
+![ROS Noetic](https://img.shields.io/badge/-ROS%20Noetic-22314E?style=flat-square&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MoveIt](https://img.shields.io/badge/-MoveIt-3B4B5A?style=flat-square)
 ![RViz](https://img.shields.io/badge/-RViz-3B4B5A?style=flat-square)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-3B4B5A?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-E16737?style=flat-square)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-C60000?style=flat-square)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white)
 
 **Languages & Backend**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -109,11 +117,9 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6D00CC?style=flat-square)
-![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-E01F5A?style=flat-square)
 ![Google Maps Platform](https://img.shields.io/badge/-Google%20Places%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <div align="center">
@@ -164,7 +170,7 @@ B2B lead engine built in partnership with Xperts Global.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=Threads%20Lead%20Extractor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Threads Lead Extractor" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=Threads%20Lead%20Collector&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Threads Lead Collector" />
 
 <img src="https://img.shields.io/badge/-IN%20PROGRESS-D97706?style=flat-square" alt="IN PROGRESS" /> <img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
 
@@ -188,9 +194,47 @@ The Facebook engine's pipeline, applied to Threads.
 
 ## Featured Projects
 
-<!-- To add a project: copy a <td>...</td> block inside a <tr>. Two cards per row. -->
-
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=RxRead&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="RxRead" />
+
+<img src="https://img.shields.io/badge/-GDG%20DEVFEST%202026-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDG DevFest 2026" /> <img src="https://img.shields.io/badge/-TEAM%20·%20I%20BUILT%20THE%20BACKEND-475569?style=flat-square" alt="Team project" />
+
+Photo of a handwritten prescription in, schedule and dose reminders out.
+
+<ul>
+<li>LangGraph pipeline: OpenCV cleanup, AI transcription, rule-based dosing parser, fuzzy match against a 221-medicine database, safety flags</li>
+<li>Instructions in English, Roman Urdu and Urdu; calendar reminders and a dose tracker</li>
+<li>69 tests and an accuracy eval on 53 sample prescriptions</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-LangGraph-1a1a2e?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/-OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/-Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+
+<a href="https://github.com/Hafsa-Anwar65/Rx-Read"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=MediGuide&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="MediGuide" />
+
+<img src="https://img.shields.io/badge/-ROS%20NOETIC-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS Noetic" />
+
+Hospital delivery robot that carries medicine between the ward and the pharmacy, so nurses don't have to.
+
+<ul>
+<li>Two-button operation; a servo-locked tray stays closed while moving; IR obstacle stop</li>
+<li>ESP32 firmware talks to ROS over Wi-Fi (rosserial); one delivery state machine drives both the real robot and the simulation</li>
+<li>Full Gazebo hospital world with AMCL localisation and move_base planning</li>
+</ul>
+
+<img src="https://img.shields.io/badge/-ROS-1a1a2e?style=flat-square&logo=ros&logoColor=white" alt="ROS" /> <img src="https://img.shields.io/badge/-ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/-Gazebo-1a1a2e?style=flat-square" alt="Gazebo" /> <img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
+<a href="https://github.com/Hafsa-Anwar65/Mediguide"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -249,25 +293,6 @@ Classifies support tickets and knows when to ask a human.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,100:6D28D9&height=70&text=NudgeLine&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="NudgeLine" />
-
-AI outreach drafter for comments and emails.
-
-<ul>
-<li>Human-sounding comments on fetched Facebook posts</li>
-<li>Personalized emails from an email list</li>
-<li>Drafted replies to incoming emails</li>
-</ul>
-
-<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Groq-1a1a2e?style=flat-square" alt="Groq" />
-
-<a href="https://github.com/Hafsa-Anwar65/NudgeLine"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=LLM%20Cost%20%26%20Latency%20Monitor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="LLM Cost & Latency Monitor" />
 
 A logging proxy in front of LLM API calls.
@@ -282,23 +307,6 @@ A logging proxy in front of LLM API calls.
 <a href="https://github.com/Hafsa-Anwar65/llm-cost-monitor"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
 </td>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,60:3B1F8F,100:22D3EE&height=70&text=6-DOF%20Robotic%20Arm%20Simulation&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="6-DOF Robotic Arm Simulation" />
-
-Kinematics and motion planning for a 6-axis arm.
-
-<ul>
-<li>Forward and inverse kinematics</li>
-<li>Trajectory planning with obstacle avoidance</li>
-<li>Simulated in MoveIt, RViz and Gazebo</li>
-</ul>
-
-<img src="https://img.shields.io/badge/-ROS%202-1a1a2e?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" /> <img src="https://img.shields.io/badge/-C%2B%2B-1a1a2e?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python" />
-
-<a href="https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/6-DOF%20Robotic%20Arm%20Simulation"><img src="https://img.shields.io/badge/Repo-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-
-</td>
 </tr>
 </table>
 
@@ -310,13 +318,13 @@ Kinematics and motion planning for a 6-axis arm.
 
 | Project | What it does | Tech | Link |
 |---|---|---|---|
+| **NudgeLine** | AI outreach drafter: human-sounding comments on fetched posts and personalized emails | Python · Groq | [Repo](https://github.com/Hafsa-Anwar65/NudgeLine) |
+| **6-DOF Robotic Arm Simulation** | Forward/inverse kinematics and trajectory planning with obstacle avoidance | ROS 2 · MoveIt · Gazebo | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/6-DOF%20Robotic%20Arm%20Simulation) |
 | **HerSafeAI** | Conversational assistant that guides users through reporting harassment and structures it into a formal incident report | n8n · JavaScript · HTML/CSS | [Demo](https://hersafeai.netlify.app) · [Repo](https://github.com/Hafsa-Anwar65/HerSafeAI) |
 | **GitHub Commit Notifier** | Flask webhook server that prints real-time push/PR notifications, exposed via Cloudflare Tunnel | Python · Flask · Webhooks | [Repo](https://github.com/Hafsa-Anwar65/github-commit-notifier) |
 | **Gear Inspection System** | OpenCV pipeline that classifies conveyor-belt gears as PASS/FAIL using contour analysis | Python · OpenCV | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Gear%20Inspection%20System) |
 | **Autonomous Mobile Robot** | LiDAR mapping and A* navigation with dynamic replanning in simulated mazes | Python · LiDAR · A* | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Autonomous%20Mobile%20Robot) |
 | **Handwritten Text Recognition** | Image preprocessing and OCR pipeline for extracting text from images | Python · OpenCV · Tesseract | [Repo](https://github.com/Hafsa-Anwar65/Handwritten-Text-Recognition-OCR) |
-| **AI Object Detection & Tracking API** | Real-time YOLO detection and multi-object tracking served through FastAPI; experiments tracked in MLflow | YOLO · FastAPI · MLflow | Not public |
-| **Real-Time Hand Tracking** | Tracks 21 hand landmarks per frame for gesture-based interaction | Python · OpenCV · MediaPipe | Not public |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -327,23 +335,8 @@ Kinematics and motion planning for a 6-axis arm.
 **AI & Automation Engineer**, Tandorge Limited · Jun 2026 to Present · Remote
 Built and deployed the Facebook Lead Intelligence Engine (FastAPI, Playwright, LLM classification), now running on a Hostinger VPS; currently extending the same pipeline to Threads.
 
-**AI Automation Intern**, DevelopersHub Corporation · Aug 2026 to Oct 2026 · Remote
-Built an AI support ticket triage system with classification, LLM output validation, confidence/risk scoring and human-in-the-loop routing. Learned and applied Playwright for browser automation.
-
-**Gen AI Fellow**, Mind Works International · Jul 2026 to Aug 2026 · Remote
-Built n8n automation pipelines connecting LLM-based systems with external APIs and data sources, using RAG to structure and route information.
-
-**Robotics & Automation Intern**, Decode Labs · Jun 2026 to Jul 2026 · Remote
-Built a 6-DOF robotic arm simulation (FK/IK, trajectory planning, obstacle avoidance) on ROS 2, an OpenCV gear-inspection pipeline, and LiDAR + A* navigation for an autonomous mobile robot.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
-</div>
-
-## Partnerships & Collaborations
-
-**Xperts Global** · B2B sales organization
-Building their Lead Engine as the AI engineer: a Google Maps lead extraction tool covering tile-based search, lead suppression and chain/franchise filtering, deployed on a VPS.
+**Collaboration: Xperts Global** · B2B sales organization
+Building their Lead Engine as the AI engineer: a Google Maps lead extraction tool with tile-based search, lead suppression and chain/franchise filtering.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
@@ -355,6 +348,7 @@ Building their Lead Engine as the AI engineer: a Google Maps lead extraction too
 
 | Certification | Issuer | Date | Credential |
 |---|---|---|---|
+| Building Reliable Agents with LangSmith | LangChain | Nov 2026 | [Verify](https://academy.langchain.com/certificates/hepkzfpgh3) |
 | AI Fundamentals: Foundations for Understanding AI | IBM SkillsBuild | Aug 2026 | [Verify](https://www.credly.com/go/pVQCDnT3) |
 | Building RAG Apps Using MongoDB | MongoDB | Aug 2026 | [Verify](https://www.credly.com/badges/c22d0ea6-b786-4aa4-a767-5c4c67bdd249) |
 | Certified Essentials Automation Professional | Automation Anywhere | Aug 2026 | [Verify](https://certificates.automationanywhere.com/77d067fc-85cd-488a-85a3-17dbd74390c9) |
@@ -387,25 +381,13 @@ Building their Lead Engine as the AI engineer: a Google Maps lead extraction too
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Anwar65&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=22D3EE&text_color=D9D2F0&border_color=6D28D9" alt="Hafsa's GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-Anwar65&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=D9D2F0&border_color=6D28D9" alt="Top Languages" height="175" />
-
 <img src="https://streak-stats.demolab.com/?user=Hafsa-Anwar65&hide_border=true&background=0D0D1A&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=D9D2F0&currStreakNum=FFFFFF&sideNums=D9D2F0&dates=8B7FB8" alt="GitHub Streak" height="175" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafsa-Anwar65&theme=react-dark&hide_border=true&bg_color=0D0D1A&color=A855F7&line=8B5CF6&point=22D3EE&area=true&area_color=6D28D9" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D1A,50:6D28D9,100:22D3EE&height=3&width=100%" width="100%" height="3" alt="" />
 </div>
-
-## Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hafsaanwar.dev-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://hafsaanwar.dev)
-[![Email](https://img.shields.io/badge/Email-hafsa.anwar017%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsa.anwar017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-anwar-53b251313/)
 
 <div align="center">
 
