@@ -126,75 +126,30 @@ I'm an AI & Automation Engineer and a BS Robotics & Intelligence Systems student
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:0F766E,100:2DD4BF&height=3&width=100%" width="100%" height="3" alt="" />
 </div>
 
-## Lead Intelligence Suite
-
-<sub>Client and employer work, so these repositories are private. Happy to walk through the architecture on a call.</sub>
+## Featured Projects
 
 <table>
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,60:115E59,100:2DD4BF&height=70&text=Facebook%20Lead%20Intelligence%20Engine&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Facebook Lead Intelligence Engine" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,60:115E59,100:2DD4BF&height=70&text=Lead%20Intelligence%20Suite&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Lead Intelligence Suite" />
 
-<img src="https://img.shields.io/badge/-DEPLOYED-16A34A?style=flat-square" alt="DEPLOYED" /> <img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
+<img src="https://img.shields.io/badge/-DEPLOYED-16A34A?style=flat-square" alt="DEPLOYED" /> <img src="https://img.shields.io/badge/-PRIVATE%20·%20CLIENT%20WORK-475569?style=flat-square" alt="Private client work" />
 
-Finds people publicly asking for services in Facebook posts and turns them into qualified leads.
+Finds people publicly asking for services online and turns them into qualified B2B leads.
 
 <ul>
-<li>Playwright attaches to an already-signed-in Chrome over CDP: no login automation, no CAPTCHA bypass</li>
-<li>Ingestion, duplicate detection, LLM classification, filters, API and dashboard</li>
-<li>Runs in production as Docker containers on a Hostinger VPS</li>
+<li><b>Facebook Lead Intelligence Engine</b> (Tandorge): Playwright on an already-signed-in Chrome over CDP, LLM classification, de-duplication, API and dashboard; running as Docker containers on a Hostinger VPS</li>
+<li><b>Google Maps Lead Extractor</b> (with Xperts Global): tile-based search by state, city or ZIP, with Do-Not-Contact and chain/franchise suppression</li>
+<li><b>Threads Lead Collector</b> (in progress): the same pipeline applied to Threads</li>
 </ul>
 
-<img src="https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/-Playwright-111111?style=flat-square" alt="Playwright" /> <img src="https://img.shields.io/badge/-Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/-Playwright-111111?style=flat-square" alt="Playwright" /> <img src="https://img.shields.io/badge/-Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/-Places%20API-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Places API" />
+
+<sub>Client and employer work, so these repositories are private. Happy to walk through the architecture on a call.</sub>
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0F766E&height=70&text=Google%20Maps%20Lead%20Extractor&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Google Maps Lead Extractor" />
-
-<img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
-
-B2B lead engine built in partnership with Xperts Global.
-
-<ul>
-<li>Tile-based search by state, city or ZIP</li>
-<li>Do-Not-Contact, existing-customer and chain/franchise suppression</li>
-<li>CSV / Excel export</li>
-</ul>
-
-<img src="https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Places%20API-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Places API" />
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0F766E&height=70&text=Threads%20Lead%20Collector&fontSize=22&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Threads Lead Collector" />
-
-<img src="https://img.shields.io/badge/-IN%20PROGRESS-D97706?style=flat-square" alt="IN PROGRESS" /> <img src="https://img.shields.io/badge/-PRIVATE-475569?style=flat-square" alt="PRIVATE" />
-
-The Facebook engine's pipeline, applied to Threads.
-
-<ul>
-<li>Collects public service-request posts</li>
-<li>De-duplicates and classifies them into leads</li>
-<li>Feeds the same lead pipeline</li>
-</ul>
-
-<img src="https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Playwright-111111?style=flat-square" alt="Playwright" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:0F766E,100:2DD4BF&height=3&width=100%" width="100%" height="3" alt="" />
-</div>
-
-## Featured Projects
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -314,22 +269,6 @@ A logging proxy in front of LLM API calls.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:0F766E,100:2DD4BF&height=3&width=100%" width="100%" height="3" alt="" />
 </div>
 
-## More Projects
-
-| Project | What it does | Tech | Link |
-|---|---|---|---|
-| **NudgeLine** | AI outreach drafter: human-sounding comments on fetched posts and personalized emails | Python · Groq | [Repo](https://github.com/Hafsa-Anwar65/NudgeLine) |
-| **6-DOF Robotic Arm Simulation** | Forward/inverse kinematics and trajectory planning with obstacle avoidance | ROS 2 · MoveIt · Gazebo | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/6-DOF%20Robotic%20Arm%20Simulation) |
-| **HerSafeAI** | Conversational assistant that guides users through reporting harassment and structures it into a formal incident report | n8n · JavaScript · HTML/CSS | [Demo](https://hersafeai.netlify.app) · [Repo](https://github.com/Hafsa-Anwar65/HerSafeAI) |
-| **GitHub Commit Notifier** | Flask webhook server that prints real-time push/PR notifications, exposed via Cloudflare Tunnel | Python · Flask · Webhooks | [Repo](https://github.com/Hafsa-Anwar65/github-commit-notifier) |
-| **Gear Inspection System** | OpenCV pipeline that classifies conveyor-belt gears as PASS/FAIL using contour analysis | Python · OpenCV | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Gear%20Inspection%20System) |
-| **Autonomous Mobile Robot** | LiDAR mapping and A* navigation with dynamic replanning in simulated mazes | Python · LiDAR · A* | [Repo](https://github.com/Hafsa-Anwar65/decodelabs-tasks/tree/main/Autonomous%20Mobile%20Robot) |
-| **Handwritten Text Recognition** | Image preprocessing and OCR pipeline for extracting text from images | Python · OpenCV · Tesseract | [Repo](https://github.com/Hafsa-Anwar65/Handwritten-Text-Recognition-OCR) |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:0F766E,100:2DD4BF&height=3&width=100%" width="100%" height="3" alt="" />
-</div>
-
 ## Experience
 
 **AI & Automation Engineer**, Tandorge Limited · Jun 2026 to Present · Remote
@@ -381,6 +320,7 @@ Building their Lead Engine as the AI engineer: a Google Maps lead extraction too
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-Anwar65&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0A0A0A&title_color=14B8A6&icon_color=2DD4BF&text_color=E5E5E5&border_color=0F766E" alt="Hafsa's GitHub Stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-Anwar65&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=14B8A6&text_color=E5E5E5&border_color=0F766E" alt="Top Languages" height="175" />
 <img src="https://streak-stats.demolab.com/?user=Hafsa-Anwar65&hide_border=true&background=0A0A0A&ring=14B8A6&fire=2DD4BF&currStreakLabel=14B8A6&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=E5E5E5&dates=A3A3A3" alt="GitHub Streak" height="175" />
 
 <br>
